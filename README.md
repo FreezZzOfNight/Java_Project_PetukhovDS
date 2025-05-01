@@ -68,7 +68,7 @@ SELECT country, economy FROM countries ORDER BY economy DESC;
 
 Визуализация через **JFreeChart**:
 
-![График экономики](economy_chart.png)
+![График экономики](/screenshots/economy_chart.png)
 
 ---
 
@@ -100,10 +100,10 @@ ORDER BY diff LIMIT 1;
 ## 📈 Скриншоты
 
 ### 🔸 График по экономике
-![График экономики](economy_chart.png)
+![График экономики](/screenshots/economy_chart.png)
 
 ### 🔸 Результаты в консоли
-![Результаты консоли](console.jpg)
+![Результаты консоли](/screenshots/console.jpg)
 
 📍 Все скриншоты результатов работы находятся в директории `/screenshots/`:
 - `economy_chart.png` — график по экономике.
