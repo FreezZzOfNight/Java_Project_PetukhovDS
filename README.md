@@ -68,7 +68,7 @@ SELECT country, economy FROM countries ORDER BY economy DESC;
 
 Визуализация через **JFreeChart**:
 
-![График экономики](e6d276ae-0330-48a9-b01f-4d48b201270c.png)
+![График экономики](economy_chart.png)
 
 ---
 
